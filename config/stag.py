@@ -37,7 +37,7 @@ DATABASES.update(
     {
         'default': {
             'ENGINE': 'django.db.backends.mysql',
-            'NAME': 'fdy-lj',  # 数据库名
+            'NAME': 'fdy_lj_o',  # 数据库名
             'USER': 'root',  # 数据库用户
             'PASSWORD': 'fdyroot',  # 数据库密码
             'HOST': 'localhost',  # 数据库主机

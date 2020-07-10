@@ -40,7 +40,7 @@ DEBUG = True
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'fdy-lj',  # noqa
+        'NAME': 'fdy_lj_t',  # noqa
         'USER': 'root',
         'PASSWORD': 'fdyroot',
         'HOST': 'localhost',

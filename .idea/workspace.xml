@@ -10,9 +10,13 @@
       <change beforePath="$PROJECT_DIR$/../fdy-lj/config/dev.py" beforeDir="false" afterPath="$PROJECT_DIR$/../fdy-lj/config/dev.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../fdy-lj/config/prod.py" beforeDir="false" afterPath="$PROJECT_DIR$/../fdy-lj/config/prod.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../fdy-lj/config/stag.py" beforeDir="false" afterPath="$PROJECT_DIR$/../fdy-lj/config/stag.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/fdy-lj.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/fdy_lj.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fdy_lj.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/dev.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/dev.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/prod.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/prod.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/stag.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/stag.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +95,8 @@
       <workItem from="1594266532609" duration="2782000" />
       <workItem from="1594363594114" duration="217000" />
       <workItem from="1594363874988" duration="148000" />
+      <workItem from="1594364069224" duration="1433000" />
+      <workItem from="1594365560595" duration="857000" />
     </task>
     <servers />
   </component>
@@ -106,10 +112,10 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="174" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.860@0.0.1440.860" timestamp="1594014600307" />
-    <state x="500" y="184" key="FileChooserDialogImpl" timestamp="1593746123106">
+    <state x="500" y="184" key="FileChooserDialogImpl" timestamp="1594364661356">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="500" y="184" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1593746123106" />
+    <state x="500" y="184" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1594364661356" />
     <state width="899" height="215" key="GridCell.Tab.0.bottom" timestamp="1594028013478">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
@@ -142,9 +148,9 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="899" height="215" key="GridCell.Tab.1.right/0.0.1440.860@0.0.1440.860" timestamp="1594028013479" />
-    <state x="221" y="61" key="SettingsEditor" timestamp="1594363752815">
+    <state x="221" y="61" key="SettingsEditor" timestamp="1594366143975">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="221" y="61" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1594363752815" />
+    <state x="221" y="61" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1594366143975" />
   </component>
 </project>
