@@ -2,6 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a6d70e73-7cec-4d77-8907-10996e891d6b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../fdy-lj/D" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fdy-lj/D.pub" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdy-lj/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fdy-lj/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdy-lj/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fdy-lj/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdy-lj/config/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../fdy-lj/config/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdy-lj/config/dev.py" beforeDir="false" afterPath="$PROJECT_DIR$/../fdy-lj/config/dev.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdy-lj/config/prod.py" beforeDir="false" afterPath="$PROJECT_DIR$/../fdy-lj/config/prod.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fdy-lj/config/stag.py" beforeDir="false" afterPath="$PROJECT_DIR$/../fdy-lj/config/stag.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/fdy-lj.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,20 +43,20 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/.virtualenvs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
-    <configuration name="fdy-lj" type="Python.DjangoServer" factoryName="Django server">
-      <module name="fdy-lj" />
+    <configuration name="fdy_lj" type="Python.DjangoServer" factoryName="Django server">
+      <module name="fdy_lj" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
         <env name="DJANGO_SETTINGS_MODULE" value="settings" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\yao\.virtualenvs\fdy-lj\venv\Scripts\python.exe" />
+      <option name="SDK_HOME" value="C:\Users\yao\.virtualenvs\fdy_lj\venv\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -79,6 +89,8 @@
       <workItem from="1594174723172" duration="5155000" />
       <workItem from="1594257367773" duration="2782000" />
       <workItem from="1594266532609" duration="2782000" />
+      <workItem from="1594363594114" duration="217000" />
+      <workItem from="1594363874988" duration="148000" />
     </task>
     <servers />
   </component>
@@ -130,9 +142,9 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="899" height="215" key="GridCell.Tab.1.right/0.0.1440.860@0.0.1440.860" timestamp="1594028013479" />
-    <state x="221" y="61" key="SettingsEditor" timestamp="1594014560929">
+    <state x="221" y="61" key="SettingsEditor" timestamp="1594363752815">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="221" y="61" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1594014560929" />
+    <state x="221" y="61" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1594363752815" />
   </component>
 </project>
